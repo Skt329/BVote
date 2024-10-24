@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VotingApp Hardhat Project
 
 This project demonstrates a VotingApp smart contract using Hardhat.
@@ -11,3 +12,7 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
+=======
+# BVote
+Voting Application based on blockchain
+>>>>>>> origin/main
