@@ -1,8 +1,8 @@
-# VotingApp README
+# BVote README
 
 ## Overview
 
-VotingApp is a decentralized voting application built on the Ethereum blockchain using Solidity smart contracts and the Hardhat development environment. This project allows users to register as voters, register political parties, and cast votes in a secure and transparent manner. The application leverages Web3.js for interaction with the Ethereum blockchain.
+BVote is a decentralized voting application built on the Ethereum blockchain using Solidity smart contracts and the Hardhat development environment. This project allows users to register as voters, register political parties, and cast votes in a secure and transparent manner. The application leverages Web3.js for interaction with the Ethereum blockchain.
 
 ## Features
 
