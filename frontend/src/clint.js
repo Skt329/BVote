@@ -173,6 +173,7 @@ async function loginVoter(voterId, password) {
         gas: transactionData.gasLimit,
         gasPrice: transactionData.gasPrice
       });
+      
       console.log('Voter login successful:', tx);
       const voterInfo = await contract.methods.voters(voterIdHash).call();
       if (voterInfo.hasVoted) { displayVotedDetails(voterId, Voterdetails, voterInfo.partyVoted, contractAddress, contractABI, transactionData); }
